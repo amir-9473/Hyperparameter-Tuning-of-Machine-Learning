@@ -1,10 +1,34 @@
-
+![image](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/assets/81913183/c23db1bc-250b-4148-827f-e7791d5f080a)
 # Hyperparameter Tuning of Machine Learning Algorithm
+[![GitHub license](https://img.shields.io/github/license/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg)](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg)](https://GitHub.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/graphs/contributors/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg)](https://GitHub.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/pulls/) 
+
+[![GitHub watchers](https://img.shields.io/github/watchers/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg?style=social&label=Watch)](https://GitHub.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learnings/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg?style=social&label=Fork)](https://GitHub.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/network/)
+[![GitHub stars](https://img.shields.io/github/stars/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg?style=social&label=Star)](https://GitHub.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/stargazers/)
 
 
 Hyperparameter Optimization for Pima Indians Diabetes Machine Learning Classification using Optuna in Python.
 
-![](https://cdn-ikpklcn.nitrocdn.com/empcKXWCMaOlfGnEfQUllGEejyvrEPbB/assets/images/optimized/rev-e653fe9/adntro.com/wp-content/uploads/2023/06/image-4.png)
+
+![](https://ch-api.healthhub.sg/api/public/content/d9607c272f414aa280163d4081417dd0?v=548317ad&t=livehealthyheaderimage)
+
+
+## Quick Access
+
+Quick access to the data is provided, including:
+
+- The raw dataset.
+- The cleaned data after preprocessing.
+- The trained model saved as a pickle (.pkl) file.
+- Jupyter notebooks containing the code and exploration of the project.
+
+| Dataset (raw) | Cleaned Data   | Trained Models      | Notebooks        |
+|---------------|----------------|-------------|------------------|
+| [Pima (csv)](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/blob/main/data/raw/diabetes.csv)     | [data_cln1(csv)](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/blob/main/data/processed/data_cln1.csv) | [models (pkl)](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/tree/main/models) | [notebooks(ipynb)](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/tree/main/notebooks) |
+
+
 ## Problem definition
 
 ### What is diabetes?
