@@ -1,4 +1,3 @@
-![image](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/assets/81913183/c23db1bc-250b-4148-827f-e7791d5f080a)
 # Hyperparameter Tuning of Machine Learning Algorithm
 [![GitHub license](https://img.shields.io/github/license/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg)](https://github.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/amir-9473/Hyperparameter-Tuning-of-Machine-Learning.svg)](https://GitHub.com/amir-9473/Hyperparameter-Tuning-of-Machine-Learning/graphs/contributors/)
